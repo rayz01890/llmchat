@@ -12,7 +12,15 @@
       "Bash(gh auth:*)",
       "Bash(git init:*)",
       "Bash(git remote add:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git -C /Users/rayzhang/projects/LLMChat status)",
+      "Bash(git -C /Users/rayzhang/projects/LLMChat diff)",
+      "Bash(git -C /Users/rayzhang/projects/LLMChat log --oneline -5)",
+      "Bash(git -C /Users/rayzhang/projects/LLMChat add:*)",
+      "Bash(git -C:*)",
+      "Bash(git -C /Users/rayzhang/projects/LLMChat push)"
     ]
   }
 }
