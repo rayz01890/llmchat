@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 install:*)",
+      "Bash(chmod:*)",
+      "Bash(./run.sh:*)",
+      "Bash(python3 -m pip:*)",
+      "Bash(python3:*)",
+      "WebSearch",
+      "WebFetch(domain:developers.openai.com)",
+      "Bash(brew install:*)",
+      "Bash(gh auth:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
